@@ -1,3 +1,3 @@
-# Advanced-React
+# Show Fits Online Store Web app
 
-frontend
+Frontend Application built with Next JS React Framework 
